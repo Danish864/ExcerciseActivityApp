@@ -3,7 +3,7 @@ import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../assets/activityForm.css'
 import { useSelector, useDispatch } from 'react-redux';
 import { toast } from 'react-toastify';
-import { useHistory } from 'react-router';
+import { useNavigate } from 'react-router';
 
 const ActivityForm = () => {
     const [name, setName]= useState("")
@@ -17,7 +17,7 @@ const ActivityForm = () => {
     const activities= useSelector((state)=> state)
      const dispatch= useDispatch()
 
-    const history= useHistory()
+    const Navigate= useNavigate()
 
     const handleSubmit=(e)=>{
         e.preventDefault();
@@ -36,7 +36,7 @@ const ActivityForm = () => {
         }
         dispatch({type: "ADD_ACTIVITY", payload: data})
          toast.success("Activity added successfully")
-         history.push("/")
+         Navigate.push("/")
     }
     const handleActivityTypeChange = (e) => console.log((activityType[e.target.value]))
  
