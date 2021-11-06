@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ExcerciseActivityApp/static/css/main.c6baabad.chunk.css",
+    "main.js": "/ExcerciseActivityApp/static/js/main.0379c511.chunk.js",
+    "main.js.map": "/ExcerciseActivityApp/static/js/main.0379c511.chunk.js.map",
+    "runtime-main.js": "/ExcerciseActivityApp/static/js/runtime-main.0275ab08.js",
+    "runtime-main.js.map": "/ExcerciseActivityApp/static/js/runtime-main.0275ab08.js.map",
+    "static/css/2.dc692443.chunk.css": "/ExcerciseActivityApp/static/css/2.dc692443.chunk.css",
+    "static/js/2.b604d77a.chunk.js": "/ExcerciseActivityApp/static/js/2.b604d77a.chunk.js",
+    "static/js/2.b604d77a.chunk.js.map": "/ExcerciseActivityApp/static/js/2.b604d77a.chunk.js.map",
+    "static/js/3.69313afd.chunk.js": "/ExcerciseActivityApp/static/js/3.69313afd.chunk.js",
+    "static/js/3.69313afd.chunk.js.map": "/ExcerciseActivityApp/static/js/3.69313afd.chunk.js.map",
+    "index.html": "/ExcerciseActivityApp/index.html",
+    "static/css/2.dc692443.chunk.css.map": "/ExcerciseActivityApp/static/css/2.dc692443.chunk.css.map",
+    "static/css/main.c6baabad.chunk.css.map": "/ExcerciseActivityApp/static/css/main.c6baabad.chunk.css.map",
+    "static/js/2.b604d77a.chunk.js.LICENSE.txt": "/ExcerciseActivityApp/static/js/2.b604d77a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0275ab08.js",
+    "static/css/2.dc692443.chunk.css",
+    "static/js/2.b604d77a.chunk.js",
+    "static/css/main.c6baabad.chunk.css",
+    "static/js/main.0379c511.chunk.js"
+  ]
+}
